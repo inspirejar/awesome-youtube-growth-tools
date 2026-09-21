@@ -32,10 +32,11 @@
 
 ## Video Editing & Thumbnails
 
-- **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** — Free, professional-grade video editing and color-grading software.
 - **[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)** — Subscription-based, industry-standard video editing software.
 - **[CapCut](https://www.capcut.com)** — Free cross-platform editor, widely used for short-form video.
 - **[Canva](https://www.canva.com)** — Design tool with templates for YouTube thumbnails and channel art.
+- **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** — Free, professional-grade video editing and color-grading software.
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Local-first toolkit for agent-driven video composition, editing, transcription, and captions.
 - **[Photopea](https://www.photopea.com)** — Free browser-based image editor with a Photoshop-like interface, usable for thumbnail design.
 - **[Shotcut](https://shotcut.org)** — Free, open-source cross-platform video editor.
 
