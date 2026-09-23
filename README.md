@@ -38,6 +38,7 @@
 - **[Canva](https://www.canva.com)** — Design tool with templates for YouTube thumbnails and channel art.
 - **[Photopea](https://www.photopea.com)** — Free browser-based image editor with a Photoshop-like interface, usable for thumbnail design.
 - **[Shotcut](https://shotcut.org)** — Free, open-source cross-platform video editor.
+- **[ReelWorkshop](https://reelworkshop.com)** — Browser-based compilation maker for importing clips, arranging moments, previewing edits, and exporting short-form MP4 videos.
 
 ## Promotion & Growth Services
 
