@@ -35,6 +35,7 @@
 - **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** — Free, professional-grade video editing and color-grading software.
 - **[Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)** — Subscription-based, industry-standard video editing software.
 - **[CapCut](https://www.capcut.com)** — Free cross-platform editor, widely used for short-form video.
+- **[ReelWorkshop](https://reelworkshop.com)** — Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 - **[Canva](https://www.canva.com)** — Design tool with templates for YouTube thumbnails and channel art.
 - **[Photopea](https://www.photopea.com)** — Free browser-based image editor with a Photoshop-like interface, usable for thumbnail design.
 - **[Shotcut](https://shotcut.org)** — Free, open-source cross-platform video editor.
