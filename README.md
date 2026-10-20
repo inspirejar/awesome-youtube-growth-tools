@@ -66,11 +66,12 @@
 
 ## Learning Resources
 
-- **[YouTube Creator Academy](https://creatoracademy.youtube.com)** — Official YouTube courses on channel growth, monetization, and production.
-- **[YouTube Help Center](https://support.google.com/youtube)** — Official documentation on platform policies, monetization rules, and features.
+- **[AI Video Prompts](https://imgmov.com/blog/2026-07-08-ai-video-prompts)** — Written examples of subject motion, camera direction, and lighting for planning an AI-video shot.
 - **[r/NewTubers](https://www.reddit.com/r/NewTubers/)** — Community subreddit where creators share advice and channel feedback.
 - **[r/PartneredYoutube](https://www.reddit.com/r/PartneredYoutube/)** — Subreddit for monetized creators discussing growth and platform changes.
 - **[Think Media (YouTube channel)](https://www.youtube.com/@ThinkMediaTV)** — Long-running channel covering video gear, strategy, and the creator business.
+- **[YouTube Creator Academy](https://creatoracademy.youtube.com)** — Official YouTube courses on channel growth, monetization, and production.
+- **[YouTube Help Center](https://support.google.com/youtube)** — Official documentation on platform policies, monetization rules, and features.
 
 ## Contributing
 
