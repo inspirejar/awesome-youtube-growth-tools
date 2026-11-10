@@ -24,11 +24,12 @@
 
 ## SEO & Keyword Research
 
-- **[TubeBuddy Keyword Explorer](https://www.tubebuddy.com)** — YouTube-specific keyword search volume and competition scoring.
-- **[vidIQ Keyword Tool](https://vidiq.com)** — Suggests tags and keywords scored for YouTube search and suggested-video ranking.
+- **[AnswerThePublic](https://answerthepublic.com)** — Visualizes common questions and phrases people search around a topic.
+- **[FlashData](https://github.com/rocosen/flashdata-mcp)** — MIT CLI and MCP client retrieving YouTube search, extended search, autocomplete, video metadata, transcripts, captions and channel records for topic and competitor research using an API key and paid FlashData Credits.
 - **[Google Trends](https://trends.google.com)** — Free tool showing search interest over time, filterable to YouTube search.
 - **[Keywordtool.io](https://keywordtool.io)** — Generates keyword suggestions pulled from YouTube's autocomplete data.
-- **[AnswerThePublic](https://answerthepublic.com)** — Visualizes common questions and phrases people search around a topic.
+- **[TubeBuddy Keyword Explorer](https://www.tubebuddy.com)** — YouTube-specific keyword search volume and competition scoring.
+- **[vidIQ Keyword Tool](https://vidiq.com)** — Suggests tags and keywords scored for YouTube search and suggested-video ranking.
 
 ## Video Editing & Thumbnails
 
